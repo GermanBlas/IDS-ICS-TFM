@@ -6,11 +6,11 @@ import sys
 # y extraera los sids resultantes. Esta pensado para ser usado con Snort 3
 
 # Definimos los directorios
-modo = ""
-dir_pcaps = "/home/TFM/pcaps/ataques/"
-dir_analisis_snort = "/home/TFM/analisis_snort"+modo+""/"
-dir_sids = "/home/TFM/sids"+ modo +""/"
-comando_snort = "snort -c /usr/local/etc/snort/snort"+ modo +".lua -A full -r"
+modo = "5"
+dir_pcaps = "/home/dit/TFM/pcaps/"
+dir_analisis_snort = "/home/dit/TFM/analisis_snort"+modo+"/"
+dir_sids = "/home/dit/TFM/sids"+ modo +"/"
+comando_snort = "snort -q -c /usr/local/snort/etc/snort/snort"+ modo +".lua -A fast -r"
 
 lines = []
 
