@@ -1,0 +1,1 @@
+04/02-22:10:15.005193  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 106.68.88.119:1911 -> 10.1.3.4:42167

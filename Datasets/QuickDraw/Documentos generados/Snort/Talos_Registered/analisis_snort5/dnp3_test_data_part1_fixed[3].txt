@@ -1,0 +1,6 @@
+[**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**]
+10/11-18:31:04.723894 
+[**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**]
+10/11-18:31:07.537969 
+[**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**]
+10/11-18:46:17.297272 

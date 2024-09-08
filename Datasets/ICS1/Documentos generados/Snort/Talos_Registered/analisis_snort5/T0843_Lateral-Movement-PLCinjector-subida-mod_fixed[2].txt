@@ -1,0 +1,4 @@
+[**] [1:17790:5] "PROTOCOL-SCADA Modbus read holding registers from external source" [**]
+04/10-12:33:59.561902 
+[**] [1:17782:5] "PROTOCOL-SCADA Modbus write multiple registers from external source" [**]
+04/10-12:34:00.576186 

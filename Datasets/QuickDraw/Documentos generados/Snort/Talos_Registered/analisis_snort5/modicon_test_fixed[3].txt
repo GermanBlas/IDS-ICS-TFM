@@ -1,0 +1,2 @@
+[**] [1:42861:3] "PROTOCOL-SCADA Schneider Modicon TM221CE16R password retrieval attempt" [**]
+04/01-18:42:37.290242 

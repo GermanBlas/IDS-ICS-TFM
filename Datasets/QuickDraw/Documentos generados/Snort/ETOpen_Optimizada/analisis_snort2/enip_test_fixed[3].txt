@@ -1,0 +1,5 @@
+03/31-19:41:35.000000  [**] [1:2009582:3] ET SCAN NMAP -sS window 1024 [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.1.1.167:37997 -> 10.1.1.164:44818
+03/31-19:41:35.000000  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.1.167:37997 -> 10.1.1.164:44818
+03/31-19:41:35.000000  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.1.167:37997 -> 10.1.1.164:44818
+03/31-19:41:35.039540  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.1.164:44818 -> 10.1.1.167:37997
+03/31-19:41:35.039540  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.1.1.164:44818 -> 10.1.1.167:37997

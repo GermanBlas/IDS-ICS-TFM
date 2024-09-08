@@ -1,0 +1,4 @@
+[**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**]
+07/02-19:22:51.148526 
+[**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**]
+07/02-19:22:51.157873 

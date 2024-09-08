@@ -1,0 +1,144 @@
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:27.772302 192.168.0.142 -> 192.168.56.1
+ICMP TTL:64 TOS:0xC0 ID:46865 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.56.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:40875 IpLen:20 DgmLen:78
+Len: 50  Csum: 27689
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:27.772455 192.168.0.142 -> 192.168.1.190
+ICMP TTL:64 TOS:0xC0 ID:50392 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.1.190:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:32878 IpLen:20 DgmLen:78
+Len: 50  Csum: 41579
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:27.772468 192.168.0.142 -> 192.168.174.1
+ICMP TTL:64 TOS:0xC0 ID:51244 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.174.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:57483 IpLen:20 DgmLen:78
+Len: 50  Csum: 63014
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:27.772553 192.168.0.142 -> 192.168.232.1
+ICMP TTL:64 TOS:0xC0 ID:63249 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.232.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:33511 IpLen:20 DgmLen:78
+Len: 50  Csum: 48165
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:29.272509 192.168.0.142 -> 192.168.232.1
+ICMP TTL:64 TOS:0xC0 ID:63287 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.232.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:33512 IpLen:20 DgmLen:78
+Len: 50  Csum: 48165
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:29.272522 192.168.0.142 -> 192.168.174.1
+ICMP TTL:64 TOS:0xC0 ID:51575 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.174.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:57484 IpLen:20 DgmLen:78
+Len: 50  Csum: 63014
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:29.272527 192.168.0.142 -> 192.168.1.190
+ICMP TTL:64 TOS:0xC0 ID:50525 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.1.190:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:32879 IpLen:20 DgmLen:78
+Len: 50  Csum: 41579
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:29.272531 192.168.0.142 -> 192.168.56.1
+ICMP TTL:64 TOS:0xC0 ID:47034 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.56.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:40876 IpLen:20 DgmLen:78
+Len: 50  Csum: 27689
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:30.774193 192.168.0.142 -> 192.168.56.1
+ICMP TTL:64 TOS:0xC0 ID:47407 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.56.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:40877 IpLen:20 DgmLen:78
+Len: 50  Csum: 27689
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:30.774205 192.168.0.142 -> 192.168.1.190
+ICMP TTL:64 TOS:0xC0 ID:50649 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.1.190:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:32880 IpLen:20 DgmLen:78
+Len: 50  Csum: 41579
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:30.774211 192.168.0.142 -> 192.168.174.1
+ICMP TTL:64 TOS:0xC0 ID:51655 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.174.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:57485 IpLen:20 DgmLen:78
+Len: 50  Csum: 63014
+(50 more bytes of original packet)
+** END OF DUMP
+
+[**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**]
+[Classification: Misc activity] [Priority: 3] 
+05/02-20:29:30.774216 192.168.0.142 -> 192.168.232.1
+ICMP TTL:64 TOS:0xC0 ID:63613 IpLen:20 DgmLen:106
+Type:3  Code:3  DESTINATION UNREACHABLE: PORT UNREACHABLE
+** ORIGINAL DATAGRAM DUMP:
+192.168.232.1:137 -> 192.168.0.142:137
+UDP TTL:127 TOS:0x0 ID:33513 IpLen:20 DgmLen:78
+Len: 50  Csum: 48165
+(50 more bytes of original packet)
+** END OF DUMP
+

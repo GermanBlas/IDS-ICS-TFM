@@ -1,0 +1,4 @@
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:46:06.889523 
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+04/23-19:46:06.896080 

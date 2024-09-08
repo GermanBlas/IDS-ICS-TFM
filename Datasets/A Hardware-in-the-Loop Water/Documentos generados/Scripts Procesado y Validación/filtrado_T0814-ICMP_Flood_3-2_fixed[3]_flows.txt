@@ -1,0 +1,2 @@
+flowInd	%dir	timeFirst	l4Proto	tcpFlags	srcIP	dstIP	srcPort	dstPort
+1	A	1617990352.525474000	1	0x0000	84.3.251.20	84.3.251.20	0	0

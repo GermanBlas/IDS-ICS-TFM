@@ -1,0 +1,2 @@
+[**] [1:17790:5] "PROTOCOL-SCADA Modbus read holding registers from external source" [**]
+04/23-20:13:30.171751 

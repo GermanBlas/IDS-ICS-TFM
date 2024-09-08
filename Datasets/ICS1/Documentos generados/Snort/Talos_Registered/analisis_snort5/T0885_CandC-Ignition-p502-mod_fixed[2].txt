@@ -1,0 +1,58 @@
+[**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**]
+07/02-19:24:30.577860 
+[**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**]
+07/02-19:24:30.585921 
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:34.325349 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3072 IpLen:20 DgmLen:168 DF
+***AP*** Seq: 0x847EEECE  Ack: 0x503BB2FE  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:34.624793 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3115 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847FD922  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+07/02-19:24:34.624793 
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:34.692859 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3190 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817DDE  Ack: 0x503BB95E  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+07/02-19:24:34.692859 
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:35.134480 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3238 IpLen:20 DgmLen:808 DF
+***AP*** Seq: 0x848264AE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+07/02-19:24:35.134480 
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:37.915445 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3242 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482681E  Ack: 0x503BC9AE  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:37.977463 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3244 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482688E  Ack: 0x503BCA7E  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:41.234637 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3246 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848268FE  Ack: 0x503BCB2E  Win: 0x1F5  TcpLen: 20
+
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+07/02-19:24:46.605156 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3252 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848269DE  Ack: 0x503C0C0E  Win: 0x1F5  TcpLen: 20
+

@@ -1,0 +1,4 @@
+03/31-19:29:43.000000  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.1.167:64087 -> 10.1.1.165:47808
+03/31-19:29:43.000000  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.1.167:64087 -> 10.1.1.165:47808
+03/31-19:29:45.062391  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.1.165:47808 -> 10.1.1.167:47808
+03/31-19:29:45.062391  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 10.1.1.165:47808 -> 10.1.1.167:47808

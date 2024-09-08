@@ -1,0 +1,48 @@
+[**] [1:51065:1] "POLICY-OTHER TCP FIN packet and URG set attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.742153 84.3.251.110:37207 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:36906 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BF867E  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:24378:4] "POLICY-OTHER TCP packet with urgent flag attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.742153 84.3.251.110:37207 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:36906 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BF867E  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:51065:1] "POLICY-OTHER TCP FIN packet and URG set attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.748146 84.3.251.110:37207 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:36906 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BF867E  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:24378:4] "POLICY-OTHER TCP packet with urgent flag attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.748146 84.3.251.110:37207 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:36906 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BF867E  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:51065:1] "POLICY-OTHER TCP FIN packet and URG set attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.847931 84.3.251.110:37208 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:11538 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BE867F  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:24378:4] "POLICY-OTHER TCP packet with urgent flag attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.847931 84.3.251.110:37208 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:11538 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BE867F  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:51065:1] "POLICY-OTHER TCP FIN packet and URG set attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.853210 84.3.251.110:37208 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:11538 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BE867F  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+
+[**] [1:24378:4] "POLICY-OTHER TCP packet with urgent flag attempt" [**]
+[Classification: Generic Protocol Command Decode] [Priority: 3] 
+04/19-15:51:16.853210 84.3.251.110:37208 -> 84.3.251.102:502
+TCP TTL:46 TOS:0x0 ID:11538 IpLen:20 DgmLen:40
+**U*P**F Seq: 0x11BE867F  Ack: 0x0  Win: 0x400  TcpLen: 20  UrgPtr: 0x0
+

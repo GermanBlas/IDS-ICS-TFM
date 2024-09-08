@@ -1,0 +1,18 @@
+08/26-14:01:18.945447  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2387 -> 10.0.0.3:502
+08/26-14:01:18.945447  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2387 -> 10.0.0.3:502
+08/26-14:01:18.945569  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.3:502 -> 10.0.0.57:2387
+08/26-14:01:18.945569  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.3:502 -> 10.0.0.57:2387
+08/26-14:05:53.490559  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:2579
+08/26-14:05:53.490559  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:2579
+08/26-14:07:47.391716  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.3:502 -> 10.0.0.57:2578
+08/26-14:07:47.391716  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.3:502 -> 10.0.0.57:2578
+08/26-14:07:47.391775  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-14:07:47.391775  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-14:12:06.102435  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-14:12:06.102435  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-14:13:52.261317  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.3:502 -> 10.0.0.9:3082
+08/26-14:13:52.261317  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.3:502 -> 10.0.0.9:3082
+08/26-14:22:26.554059  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-14:22:26.554059  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-14:22:26.554266  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:2585
+08/26-14:22:26.554266  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:2585

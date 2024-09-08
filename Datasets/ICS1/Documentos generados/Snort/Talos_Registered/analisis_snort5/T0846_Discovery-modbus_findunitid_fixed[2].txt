@@ -1,0 +1,36 @@
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:13.337524 
+[**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**]
+04/23-19:57:13.345543 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:14.556847 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:17.771103 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:20.983897 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:24.196359 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:27.408698 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:30.618826 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:33.830476 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:37.043272 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:40.251648 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:43.460365 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:46.668520 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:49.876631 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:53.084219 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:56.291607 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:57:59.500367 
+[**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**]
+04/23-19:58:02.708970 
