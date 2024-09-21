@@ -1,0 +1,7 @@
+Este dataset publicado en el IEEE se basa en un testbed hardware-in-the-loop de distribución de agua. Hardware-in-the-loop es una técnica que se usa para probar sistemas complejos simulando con software parte del sistema, ya que probarlo en el sistema real podría ser costoso o arriesgado, no dañando así los equipos reales o poniendo en peligro a las personas.
+
+El dataset contiene dos tipos de ataques: físicos, que afectan a los elementos físicos del sistema como fugas en tanques y tuberías, y ciberataques, que afectan a los hosts o a los enlaces de comunicación, como ataques de denegación de servicio.
+
+El dataset contiene un total de 20 PCAPNG que contienen 3 técnicas distintas pertenecientes a 3 tácticas.
+
+Este dataset puede accederse a través de https://ieeexplore.ieee.org/document/9526562.

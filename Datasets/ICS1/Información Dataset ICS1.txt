@@ -1,0 +1,5 @@
+Este dataset contiene los ataques generados en el TFG del alumno Pablo Benítez Gómez “Análisis de la capacidad de detección de Snort sobre ataques de red en ICS bajo la matriz MITRE ATT&CK”.
+
+Los ataques han sido obtenidos repositorio GitHub del TFG. Consiste en 28 ataques en PCAPNG que contienen 13 técnicas distintas pertenecientes a 8 tácticas. La mayoría de los ataques son del protocolo Modbus y DPN3, aunque también contiene ataques sobre los protocolos S7comm, SNMP, HTTP, CIP y PCCC.
+
+El dataset puede obtenerse en https://github.com/pablobs2000/TFG-Snort-IDS, aunque para este trabajo se han modificado algunos de ellos.

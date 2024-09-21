@@ -1,0 +1,3 @@
+QuickDraw, uno de los conjuntos de reglas de Snort que vamos a usar en el trabajo, contiene en su repositorio una serie de PCAP para probar sus reglas. Aunque estos PCAP no están documentados y por lo tanto no podemos saber los ataques que contienen, vamos a procesarlos para ver si somos capaces de identificar los ataques encapsulados y probar que tenemos una buena configuración de Snort.Este dataset contiene 10 PCAPNG.
+
+El dataset puede accederse a través de https://github.com/digitalbond/Quickdraw-Snort/.
