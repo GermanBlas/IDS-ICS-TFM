@@ -1,0 +1,96 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 04 00 00
+45345,61351,,Modbus_Diagnostics.Force.Listen.Only.Mode,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+41286,61351,,Modbus_Diagnostics.Error,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,0b
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 04 00 00
+45345,61351,,Modbus_Diagnostics.Force.Listen.Only.Mode,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+41286,61351,,Modbus_Diagnostics.Error,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,0b
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 04 00 00
+45345,61351,,Modbus_Diagnostics.Force.Listen.Only.Mode,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+41286,61351,,Modbus_Diagnostics.Error,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,0b
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+45342,61351,,Modbus_Diagnostics.Restart.Communications.Option,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+41286,61351,,Modbus_Diagnostics.Error,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,0b
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+40046,61351,,Modbus_Exception.Gateway.Target.Device.Unavailable,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+45342,61351,,Modbus_Diagnostics.Restart.Communications.Option,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+45342,61351,,Modbus_Diagnostics.Restart.Communications.Option,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+45342,61351,,Modbus_Diagnostics.Restart.Communications.Option,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+45342,61351,,Modbus_Diagnostics.Restart.Communications.Option,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 0a 00 00
+45346,61351,,Modbus_Diagnostics.Clear.Counters.Diagnostic.Register,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 0a 00 00
+45346,61351,,Modbus_Diagnostics.Clear.Counters.Diagnostic.Register,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 0a 00 00
+45346,61351,,Modbus_Diagnostics.Clear.Counters.Diagnostic.Register,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31622,61351,,Modbus_Diagnostics,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 0a 00 00
+45346,61351,,Modbus_Diagnostics.Clear.Counters.Diagnostic.Register,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,00 00
+31625,61351,,Modbus_Report.Slave.ID,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31625,61351,,Modbus_Report.Slave.ID,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,12 00 ff 57 69 6e 67 70 61 74 68 20 4c 69 6d 69 74 65 64
+31625,61351,,Modbus_Report.Slave.ID,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+31625,61351,,Modbus_Report.Slave.ID,,elevated,MODBUS,10.0.0.57,10.0.0.3,app-ctrl,signature,,,
+25899,61352,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,0e 03 01 00
+45339,61352,,Modbus_Encapsulated.Interface.Transport.Read.Device.Info,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,03 01 00
+51756,61352,,Modbus_Read.Device.ID,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,
+25899,61352,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,
+25899,61352,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,0e 03 01 00
+45339,61352,,Modbus_Encapsulated.Interface.Transport.Read.Device.Info,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,03 01 00
+51756,61352,,Modbus_Read.Device.ID,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,
+25899,61352,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,0e 03 01 00
+45339,61352,,Modbus_Encapsulated.Interface.Transport.Read.Device.Info,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,03 01 00
+51756,61352,,Modbus_Read.Device.ID,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,
+25899,61352,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,10.0.0.57,10.0.0.8,app-ctrl,signature,,,
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00 00 01
+48881,61354,,Modbus_Func01.Read.Coils.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:0, Address:0","UnitID=10,Ref=0-0,Data=00 01"
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+48881,61354,,Modbus_Func01.Read.Coils.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,01 00
+16938,61354,,Modbus,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 02 00 02
+48881,61354,,Modbus_Func01.Read.Coils.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:2, Address:3","UnitID=10,Ref=2-3,Data=00 02"
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+48881,61354,,Modbus_Func01.Read.Coils.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25830,61354,,Modbus_Read.Coils,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,01 00
+25855,61354,,Modbus_Read.Holding.Registers,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 05 00 02
+48883,61354,,Modbus_Func03.Read.Holding.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:5, Address:6","UnitID=10,Ref=5-6,Data=00 02"
+25855,61354,,Modbus_Read.Holding.Registers,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+48883,61354,,Modbus_Func03.Read.Holding.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25855,61354,,Modbus_Read.Holding.Registers,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,04 00 09 00 18
+25901,61354,,Modbus_Write.Single.Coil,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 02 00 00
+48885,61354,,Modbus_Func05.Write.Single.Coil.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:2, Value:0","UnitID=10,Ref=2,Data=00 00"
+25901,61354,,Modbus_Write.Single.Coil,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+48885,61354,,Modbus_Func05.Write.Single.Coil.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25901,61354,,Modbus_Write.Single.Coil,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 02 00 00
+48885,61354,,Modbus_Func05.Write.Single.Coil.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:2, Value:0","UnitID=10,Ref=2,Data=00 00"
+25901,61354,,Modbus_Write.Single.Coil,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+48885,61354,,Modbus_Func05.Write.Single.Coil.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:1, Value:0","UnitID=10,Ref=1,Data=00 00"
+25901,61354,,Modbus_Write.Single.Coil,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+48885,61354,,Modbus_Func05.Write.Single.Coil.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25901,61354,,Modbus_Write.Single.Coil,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 01 00 00
+48885,61354,,Modbus_Func05.Write.Single.Coil.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:1, Value:0","UnitID=10,Ref=1,Data=00 00"
+25902,61354,,Modbus_Write.Single.Register,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 05 00 0b
+48886,61354,,Modbus_Func06.Write.Single.Reg.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:5, Value:11","UnitID=10,Ref=5,Data=00 0b"
+25902,61354,,Modbus_Write.Single.Register,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+48886,61354,,Modbus_Func06.Write.Single.Reg.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+25902,61354,,Modbus_Write.Single.Register,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 05 00 0b
+48886,61354,,Modbus_Func06.Write.Single.Reg.Validation,,elevated,MODBUS,10.0.0.9,10.0.0.3,app-ctrl,signature,,"UnitID:10, Address:5, Value:11","UnitID=10,Ref=5,Data=00 0b"

@@ -1,0 +1,13 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+25855,61386,,Modbus_Read.Holding.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 09 00 01
+48883,61386,,Modbus_Func03.Read.Holding.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:1, Address:9, Address:9","UnitID=1,Ref=9-9,Data=00 01"
+25855,61386,,Modbus_Read.Holding.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+48883,61386,,Modbus_Func03.Read.Holding.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25855,61386,,Modbus_Read.Holding.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,02 00 00
+16938,61386,,Modbus,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+48888,61387,,Modbus_Func16.Write.MultiReg.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:1, Address:0, Address:8, Value:esto es una prueba","UnitID=1,Ref=0-8,Data=65 73 74 6f 20 65 73 20 75 6e 61 20 70 72 75 65 62 61"
+25900,61387,,Modbus_Write.Multiple.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 00 00 09 12 65 73 74 6f 20 65 73 20 75 6e 61 20 70 72 75 65 62 61
+25900,61387,,Modbus_Write.Multiple.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25900,61387,,Modbus_Write.Multiple.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 00 00 09
+48888,61387,,Modbus_Func16.Write.MultiReg.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+16938,61387,,Modbus,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,

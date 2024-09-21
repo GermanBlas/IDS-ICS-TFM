@@ -1,0 +1,5 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+44542,61359,,Omron.FINS,,elevated,tcp/9600,10.1.1.173,10.1.1.164,app-ctrl,signature,,,
+51609,61359,,Omron.FINS_Controller.Data.Read,,elevated,tcp/9600,10.1.1.173,10.1.1.164,app-ctrl,signature,,,
+51609,61362,,Omron.FINS_Controller.Data.Read,,elevated,udp/9600,10.1.1.173,10.1.1.164,app-ctrl,signature,,,
+10000000,61362,,Omron.Devices,,low,udp/9600,10.1.1.173,10.1.1.164,app-ctrl,signature,,,

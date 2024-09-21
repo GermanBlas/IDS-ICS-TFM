@@ -1,0 +1,8 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+16206,61377,,ICMP,,elevated,icmp/3/3,192.168.0.142,192.168.56.1,app-ctrl,signature,,,
+16206,61379,,ICMP,,elevated,icmp/3/3,192.168.0.142,192.168.232.1,app-ctrl,signature,,,
+45418,61376,,EtherNet.IP_Register.Session,,elevated,tcp/44818,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+16206,61378,,ICMP,,elevated,icmp/3/3,192.168.0.142,192.168.174.1,app-ctrl,signature,,,
+16206,61380,,ICMP,,elevated,icmp/3/3,192.168.0.142,192.168.1.190,app-ctrl,signature,,,
+44195,61376,,CIP_CM.Unconnected.Send,,elevated,tcp/44818,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+45368,61376,,CIP_Response.Error.Path.Destination.Unknown,,elevated,tcp/44818,192.168.0.142,192.168.0.64,app-ctrl,signature,,,

@@ -1,0 +1,72 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+25873,61389,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61389,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:1, Address:1, Address:0","UnitID=1,Ref=1-0,Data=00 00"
+25873,61389,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61389,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+41282,61389,,Modbus_Read.Input.Registers.Error,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,01
+40034,61389,,Modbus_Exception.Illegal.Function,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+40034,61389,,Modbus_Exception.Illegal.Function,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61391,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61391,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:3, Address:1, Address:0","UnitID=3,Ref=1-0,Data=00 00"
+25873,61391,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61391,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61393,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61393,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:5, Address:1, Address:0","UnitID=5,Ref=1-0,Data=00 00"
+25873,61393,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61393,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61395,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61395,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:7, Address:1, Address:0","UnitID=7,Ref=1-0,Data=00 00"
+25873,61395,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61395,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61397,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61397,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:9, Address:1, Address:0","UnitID=9,Ref=1-0,Data=00 00"
+25873,61397,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61397,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61399,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61399,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:11, Address:1, Address:0","UnitID=11,Ref=1-0,Data=00 00"
+25873,61399,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61399,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61401,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61401,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:13, Address:1, Address:0","UnitID=13,Ref=1-0,Data=00 00"
+25873,61401,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61401,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61403,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61403,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:15, Address:1, Address:0","UnitID=15,Ref=1-0,Data=00 00"
+25873,61403,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61403,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61405,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61405,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:17, Address:1, Address:0","UnitID=17,Ref=1-0,Data=00 00"
+25873,61405,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61405,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61390,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61390,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:2, Address:1, Address:0","UnitID=2,Ref=1-0,Data=00 00"
+25873,61390,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61390,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61392,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61392,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:4, Address:1, Address:0","UnitID=4,Ref=1-0,Data=00 00"
+25873,61392,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61392,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61394,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61394,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:6, Address:1, Address:0","UnitID=6,Ref=1-0,Data=00 00"
+25873,61394,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61394,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61396,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61396,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:8, Address:1, Address:0","UnitID=8,Ref=1-0,Data=00 00"
+25873,61396,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61396,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61398,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61398,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:10, Address:1, Address:0","UnitID=10,Ref=1-0,Data=00 00"
+25873,61398,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61398,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61400,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61400,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:12, Address:1, Address:0","UnitID=12,Ref=1-0,Data=00 00"
+25873,61400,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61400,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61402,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61402,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:14, Address:1, Address:0","UnitID=14,Ref=1-0,Data=00 00"
+25873,61402,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61402,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61404,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 01 00 00
+48884,61404,,Modbus_Func04.Read.Input.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:16, Address:1, Address:0","UnitID=16,Ref=1-0,Data=00 00"
+25873,61404,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25873,61404,,Modbus_Read.Input.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,

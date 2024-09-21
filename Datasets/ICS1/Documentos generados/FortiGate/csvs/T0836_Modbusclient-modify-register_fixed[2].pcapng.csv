@@ -1,0 +1,13 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Write.Single.Register,,Modbus_Write.Single.Register,25902,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func06.Write.Single.Reg.Validation,,Modbus_Func06.Write.Single.Reg.Validation,48886,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Write.Single.Register,,Modbus_Write.Single.Register,25902,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func06.Write.Single.Reg.Validation,,Modbus_Func06.Write.Single.Reg.Validation,48886,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Write.Single.Register,,Modbus_Write.Single.Register,25902,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func06.Write.Single.Reg.Validation,,Modbus_Func06.Write.Single.Reg.Validation,48886,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus,,Modbus,16938,61382,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:14:05,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,,,Modbus,16938,61382,,,tcp/502,traffic,sniffer,,
+2024-09-07,21:14:36,FGDIT,FGVM02TM24011031,192.168.56.1,192.168.0.142,,,,,NetBIOS.Name.Service,17017,61370,,,udp/137,traffic,sniffer,,
+2024-09-07,21:14:36,FGDIT,FGVM02TM24011031,192.168.174.1,192.168.0.142,,,,,NetBIOS.Name.Service,17017,61372,,,udp/137,traffic,sniffer,,
+2024-09-07,21:14:36,FGDIT,FGVM02TM24011031,192.168.232.1,192.168.0.142,,,,,NetBIOS.Name.Service,17017,61374,,,udp/137,traffic,sniffer,,
+2024-09-07,21:14:36,FGDIT,FGVM02TM24011031,192.168.1.190,192.168.0.142,,,,,NetBIOS.Name.Service,17017,61368,,,udp/137,traffic,sniffer,,

@@ -1,0 +1,4 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+45416,61349,,EtherNet.IP_List.Identity,,elevated,tcp/44818,10.1.1.167,10.1.1.164,app-ctrl,signature,,,
+10000167,61349,,RockwellAutomation.Devices,,low,tcp/44818,10.1.1.167,10.1.1.164,app-ctrl,signature,,,
+10002580,61349,,RockwellAutomation.ControlLogix.EthernetIP,,low,tcp/44818,10.1.1.167,10.1.1.164,app-ctrl,signature,,,

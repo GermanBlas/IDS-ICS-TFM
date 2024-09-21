@@ -1,0 +1,12 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+31625,61409,,Modbus_Report.Slave.ID,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+41291,61409,,Modbus_Report.Slave.ID.Error,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,01
+40034,61409,,Modbus_Exception.Illegal.Function,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+40034,61409,,Modbus_Exception.Illegal.Function,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25899,61410,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,0e 01 00
+45339,61410,,Modbus_Encapsulated.Interface.Transport.Read.Device.Info,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,01 00
+51756,61410,,Modbus_Read.Device.ID,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25899,61410,,Modbus_Encapsulated.Interface.Transport,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+41297,61410,,Modbus_Encapsulated.Interface.Transport.Error,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,01
+40034,61410,,Modbus_Exception.Illegal.Function,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+40034,61410,,Modbus_Exception.Illegal.Function,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,

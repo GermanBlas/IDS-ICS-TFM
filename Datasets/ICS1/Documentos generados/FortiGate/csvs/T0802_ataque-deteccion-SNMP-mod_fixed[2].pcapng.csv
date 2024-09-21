@@ -1,0 +1,3 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:09:59,FGDIT,FGVM02TM24011031,192.168.1.190,192.168.1.191,,,Network.Service: SNMP_GetRequest,,SNMP_GetRequest,34789,61366,,,SNMP,utm,app-ctrl,signature,
+2024-09-07,21:09:59,FGDIT,FGVM02TM24011031,192.168.1.190,192.168.1.191,,,Network.Service: SNMP_GetNextRequest,,SNMP_GetNextRequest,34795,61366,,,SNMP,utm,app-ctrl,signature,

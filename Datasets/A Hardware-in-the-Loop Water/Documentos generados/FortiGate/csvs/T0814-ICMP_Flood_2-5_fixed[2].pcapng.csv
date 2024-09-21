@@ -1,0 +1,5 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:40:35,FGDIT,FGVM02TM24011031,84.3.251.20,84.3.251.18,,,Network.Service: Ping,,Ping,24466,61432,,,PING,utm,app-ctrl,signature,
+2024-09-07,21:40:35,FGDIT,FGVM02TM24011031,84.3.251.20,84.3.251.18,,,Network.Service: ICMP,,ICMP,16206,61433,,,icmp/3/2,utm,app-ctrl,signature,
+2024-09-07,21:41:01,FGDIT,FGVM02TM24011031,84.3.251.20,84.3.251.18,,,,,ICMP,16206,61433,,,icmp/3/2,traffic,sniffer,,
+2024-09-07,21:41:08,FGDIT,FGVM02TM24011031,84.3.251.20,84.3.251.18,,,,,Ping,24466,61432,,,PING,traffic,sniffer,,

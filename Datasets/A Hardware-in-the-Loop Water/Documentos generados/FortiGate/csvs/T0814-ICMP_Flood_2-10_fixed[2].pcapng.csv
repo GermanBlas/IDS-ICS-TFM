@@ -1,0 +1,3 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:39:27,FGDIT,FGVM02TM24011031,84.3.251.110,84.3.251.18,,,Network.Service: Ping,,Ping,24466,61431,,,PING,utm,app-ctrl,signature,
+2024-09-07,21:39:50,FGDIT,FGVM02TM24011031,84.3.251.110,84.3.251.18,,,,,Ping,24466,61431,,,PING,traffic,sniffer,,

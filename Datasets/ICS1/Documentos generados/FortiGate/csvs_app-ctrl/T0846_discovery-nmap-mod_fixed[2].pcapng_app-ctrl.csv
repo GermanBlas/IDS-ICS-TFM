@@ -1,0 +1,14 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+42210,61412,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Job=f0 00 00 01 00 01 01 e0
+42210,61412,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Ack=f0 00 00 01 00 01 00 f0
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Request=ff 09 00 04 00 11 00 01
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Response=ff 09 00 5c 00 11 00 01 00 1c 00 03 00 01 36 45 53 37 20 53 49 4d 2d 30 31 32 30 30 2d 56 50 4c 43 20 00 00 ff fe 20 20 00 06 36 45 53 37 20 53 49 4d 2d 30 31 32 30 30 2d 56 50 4c 43 20 00 00 ff fe 20 20 00 07 36 45 53 37 20 53 49 4d 2d 30 31 32 
+10000166,61412,,Siemens.Devices,,low,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Request=ff 09 00 04 00 11 00 01
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Response=ff 09 00 5c 00 11 00 01 00 1c 00 03 00 01 36 45 53 37 20 53 49 4d 2d 30 31 32 30 30 2d 56 50 4c 43 20 00 00 ff fe 20 20 00 06 36 45 53 37 20 53 49 4d 2d 30 31 32 30 30 2d 56 50 4c 43 20 00 00 ff fe 20 20 00 07 36 45 53 37 20 53 49 4d 2d 30 31 32 
+10000166,61412,,Siemens.Devices,,low,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Request=ff 09 00 04 00 1c 00 01
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42225,61412,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Response=0a 00 00 00

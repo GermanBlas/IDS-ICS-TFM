@@ -1,0 +1,9 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:12:27,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func15.Write.MultiCoils.Validation,,Modbus_Func15.Write.MultiCoils.Validation,48887,61381,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:12:27,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Write.Multiple.Coils,,Modbus_Write.Multiple.Coils,25890,61381,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:12:27,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Write.Multiple.Coils,,Modbus_Write.Multiple.Coils,25890,61381,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:12:27,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Write.Multiple.Coils,,Modbus_Write.Multiple.Coils,25890,61381,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:12:27,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func15.Write.MultiCoils.Validation,,Modbus_Func15.Write.MultiCoils.Validation,48887,61381,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:12:27,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus,,Modbus,16938,61381,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:12:28,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,,,Modbus,16938,61381,,,tcp/502,traffic,sniffer,,
+2024-09-07,21:12:59,FGDIT,FGVM02TM24011031,192.168.1.190,192.168.1.191,,,,,SNMP_GetNextRequest,34795,61366,,,SNMP,traffic,sniffer,,

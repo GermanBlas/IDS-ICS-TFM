@@ -1,0 +1,318 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+51812,61341,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61341,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61341,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61341,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31806,61343,,DNP3_Cold.Restart,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,Null
+31806,61343,,DNP3_Cold.Restart,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00 34 02 07 01 88 13
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+17843,61343,,DNP3_Read,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,02 00 06
+17843,61343,,DNP3_Read,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,80 00
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,80 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+55661,61343,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31814,61343,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31814,61343,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,80 00
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+17842,61343,,DNP3_Write,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,50 01 00 07 07 00
+17842,61343,,DNP3_Write,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+55662,61343,,DNP3_Class.Dump,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06 3c 01 06
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+17843,61343,,DNP3_Read,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06 3c 01 06
+17843,61343,,DNP3_Read,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00 01 01 00 00 05 02 0a 02 00 00 05 ac 11 01 01 01 01 01 01 14 05 00 00 00 00 00 00 00 15 4e 0d 09 00 00 00 00 00 00 00 1e 03 00 00 06 c5 00 00 f0 ff 00 c7 00 00 00 c8 00 00 00 01 00 00 00 25 1c 00 68 ac 00
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+55660,61343,,DNP3_Unsol.Enable,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31813,61343,,DNP3_Enable.Spontaneous.Messages,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31813,61343,,DNP3_Enable.Spontaneous.Messages,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+55660,61343,,DNP3_Unsol.Enable,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31813,61343,,DNP3_Enable.Spontaneous.Messages,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31813,61343,,DNP3_Enable.Spontaneous.Messages,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31817,61343,,DNP3_Response,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61343,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,00 00
+31818,61343,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61343,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61345,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31818,61345,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,95 01
+31818,61345,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+10003728,61345,,DNP.DNP3,,low,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61345,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31811,61345,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,3c 02 06 01 07 06 3c 04 ed
+31811,61345,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61345,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31811,61345,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+31811,61345,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.9,10.0.0.3,app-ctrl,signature,,,
+51812,61347,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61347,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,10 00
+31818,61347,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61347,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61347,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31811,61347,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 01 07 06 3c 04 ed
+31811,61347,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61347,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61347,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,10 01
+10003728,61347,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61347,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31811,61347,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 01 07 06 3c 04 ed
+31811,61347,,DNP3_Stop.Application,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61347,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61347,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,10 01
+10003728,61347,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61340,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61340,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,10 00
+31818,61340,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61340,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61340,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61340,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61340,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61340,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+17842,61340,,DNP3_Write,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,32 01 07 01 eb e4 5a 87 ff 00
+51812,61340,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61340,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61340,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55661,61340,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61340,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31814,61340,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31814,61340,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61340,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61340,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61340,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,10 00
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+17842,61342,,DNP3_Write,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,32 01 07 01 a9 e1 7b 87 ff 00
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61342,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55660,61342,,DNP3_Unsol.Enable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31813,61342,,DNP3_Enable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31813,61342,,DNP3_Enable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61342,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 e2 43 7d 87 ff 00 02 f8 c3 03 28 05 00 00 00 01 00 00 01 00 81 00 00 02 00 59 89 81 00 00 00 00 81 f3 03 01 00 01 f3 03 20 01 28 3b 46 03 00 00 00 01 00 00 00 00 01 00 01 00 00 00 00 e8
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 d5 47 7d 87 ff 00 02 49 5c 03 28 04 00 02 00 01 00 00 00 00 01 17 03 01 00 26 f6 81 17 03 02 00 81 17 03 20 01 28 03 00 02 00 01 33 04 c6 00 00 00 00 00 01 00 00 00 00 01
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 f4 4e 7d 87 ff 00 02 6d 5e 03 28 05 00 00 00 81 00 00 01 00 01 00 00 02 00 f1 21 01 00 00 00 00 01 c1 03 01 00 81 c1 03 20 01 28 8b b3 03 00 00 00 01 c6 00 00 00 01 00 01 ca 00 00 00 2d
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 b5 52 7d 87 ff 00 02 43 89 03 28 04 00 02 00 81 00 00 00 00 81 a4 03 01 00 03 fc 01 a4 03 02 00 01 a4 03 20 01 28 03 00 02 00 01 1c b7 00 00 00 00 00 00 01 ca 00 00 00 01
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 1a 5a 7d 87 ff 00 02 9e 00 03 28 05 00 00 00 01 00 00 01 00 81 00 00 02 00 59 89 81 00 00 00 00 81 ad 03 01 00 01 ad 03 20 01 28 e6 70 03 00 00 00 01 00 00 00 00 01 00 01 00 00 00 00 e8
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 c7 5d 7d 87 ff 00 02 37 9a 03 28 05 00 02 00 01 00 00 00 00 01 0e 03 01 00 36 58 81 0e 03 02 00 81 0e 03 00
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 c8 64 7d 87 ff 00 02 76 34 03 28 05 00 01 00 01 00 00 02 00 01 00 00 00 00 89 fe 01 2b 03 01 00 81 2b 03 02 00 81 2b 03 20 01 28 cb 11 03 00 00 00 01 c6 00 00 00 01 00 01 c7 00 00 00 c1
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 b5 6b 7d 87 ff 00 02 ef 50 03 28 03 00 00 00 81 00 00 01 00 01 00 00 02 00 d1 a7 01 00 00 20 01 28 03 00 02 00 01 00 00 00 00 00 1b f1 00 01 ca 00 00 00 01
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 5e 6e 7d 87 ff 00 02 c2 05 03 28 05 00 00 00 01 00 00 01 00 81 00 00 02 00 59 89 81 00 00 00 00 81 0d 03 01 00 01 0d 03 20 01 28 64 f2 03 00 00 00 01 00 00 00 00 01 00 01 00 00 00 00 e8
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 33 01 07 01 6b 71 7d 87 ff 00 02 fa 55 03 28 01 00 02 00 01 00 00 20 01 28 03 00 00 00 98 d8 01 cb 00 00 00 01 00 01 ca 00 00 00 02 00 01
+31818,61342,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61342,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31806,61342,,DNP3_Cold.Restart,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31806,61342,,DNP3_Cold.Restart,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61342,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61342,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 34 02 07 01 88 13
+10003728,61342,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61344,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,90 00
+31818,61344,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31756,61344,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31756,61344,,DNP3_Confirm,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55661,61344,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31814,61344,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31814,61344,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,90 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+17842,61344,,DNP3_Write,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,32 01 07 01 2f 1d b4 87 ff 00
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,80 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55661,61344,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31814,61344,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31814,61344,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,80 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+17842,61344,,DNP3_Write,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,32 01 07 01 5b 1e b4 87 ff 00
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,80 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55661,61344,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31814,61344,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06
+31814,61344,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,80 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+17842,61344,,DNP3_Write,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,50 01 00 07 07 00
+17842,61344,,DNP3_Write,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55662,61344,,DNP3_Class.Dump,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06 3c 01 06
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+17843,61344,,DNP3_Read,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 06 3c 01 06
+17843,61344,,DNP3_Read,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 01 01 00 00 05 19 0a 02 00 00 05 c3 47 81 01 81 81 01 01 14 05 00 00 00 20 00 00 00 15 f1 7b 09 00 00 00 00 00 00 00 1e 03 00 00 06 ca 00 00 18 7e 00 cb 00 00 00 c9 00 00 00 ff ff ff ff 66 21 00 d6 f3 00
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31807,61344,,DNP3_Warm.Restart,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31807,61344,,DNP3_Warm.Restart,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 34 02 07 01 d0 07
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31807,61344,,DNP3_Warm.Restart,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,Null
+31807,61344,,DNP3_Warm.Restart,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61344,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31817,61344,,DNP3_Response,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,00 00 34 02 07 01 d0 07
+10003728,61344,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+51812,61346,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31818,61346,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,01 00
+31818,61346,,DNP3_Unsolicited.Message,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+10003728,61346,,DNP.DNP3,,low,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55661,61346,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 ed
+51812,61346,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31814,61346,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 ed
+31814,61346,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+55661,61346,,DNP3_Unsol.Disable,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 ed
+51812,61346,,DNP3_Data.Link.Layer.Function.Unconfirmed.User.Data,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,
+31814,61346,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,3c 02 06 3c 03 06 3c 04 ed
+31814,61346,,DNP3_Disable.Spontaneous.Messages,,elevated,DNP3,10.0.0.8,10.0.0.3,app-ctrl,signature,,,

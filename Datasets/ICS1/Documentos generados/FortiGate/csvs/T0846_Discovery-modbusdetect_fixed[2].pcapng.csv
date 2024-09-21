@@ -1,0 +1,9 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Input.Registers,,Modbus_Read.Input.Registers,25873,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func04.Read.Input.Validation,,Modbus_Func04.Read.Input.Validation,48884,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Input.Registers,,Modbus_Read.Input.Registers,25873,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Input.Registers,,Modbus_Read.Input.Registers,25873,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Input.Registers.Error,,Modbus_Read.Input.Registers.Error,41282,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Exception.Illegal.Function,,Modbus_Exception.Illegal.Function,40034,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Exception.Illegal.Function,,Modbus_Exception.Illegal.Function,40034,61388,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:17:23,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,,,Modbus_Exception.Illegal.Function,40034,61388,,,tcp/502,traffic,sniffer,,

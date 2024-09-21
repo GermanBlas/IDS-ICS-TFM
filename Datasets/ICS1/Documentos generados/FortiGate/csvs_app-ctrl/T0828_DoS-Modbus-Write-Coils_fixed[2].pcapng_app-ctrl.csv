@@ -1,0 +1,7 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+48887,61381,,Modbus_Func15.Write.MultiCoils.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:1, Address:10, Address:19, Value:0","UnitID=1,Ref=10-19,Data=00 00"
+25890,61381,,Modbus_Write.Multiple.Coils,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 0a 00 0a 02 00 00
+25890,61381,,Modbus_Write.Multiple.Coils,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25890,61381,,Modbus_Write.Multiple.Coils,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 0a 00 0a
+48887,61381,,Modbus_Func15.Write.MultiCoils.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+16938,61381,,Modbus,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,

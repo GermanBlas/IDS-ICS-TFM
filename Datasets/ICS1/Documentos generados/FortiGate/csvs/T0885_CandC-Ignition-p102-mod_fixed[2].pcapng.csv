@@ -1,0 +1,5 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:28:50,FGDIT,FGVM02TM24011031,192.168.2.87,192.168.2.91,,,Web.Client: HTTP.BROWSER_IE,,HTTP.BROWSER_IE,34038,61419,,,HTTP,utm,app-ctrl,signature,/system/gwinfo
+2024-09-07,21:28:50,FGDIT,FGVM02TM24011031,192.168.2.87,192.168.2.91,,,Web.Client: HTTP.BROWSER_IE,,HTTP.BROWSER_IE,34038,61418,,,HTTP,utm,app-ctrl,signature,/system/gwinfo
+2024-09-07,21:28:51,FGDIT,FGVM02TM24011031,192.168.2.87,192.168.2.91,,,,,HTTP.BROWSER_IE,34038,61419,,,tcp/8088,traffic,sniffer,,
+2024-09-07,21:28:51,FGDIT,FGVM02TM24011031,192.168.2.87,192.168.2.91,,,,,HTTP.BROWSER_IE,34038,61418,,,tcp/8088,traffic,sniffer,,

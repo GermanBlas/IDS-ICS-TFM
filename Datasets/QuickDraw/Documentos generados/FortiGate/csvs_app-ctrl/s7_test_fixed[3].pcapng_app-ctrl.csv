@@ -1,0 +1,12 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+42210,61365,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Job=f0 00 00 01 00 01 01 e0
+42210,61365,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Ack=f0 00 00 01 00 01 00 f0
+42225,61365,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Request=ff 09 00 04 00 11 00 01
+42225,61365,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,
+42225,61365,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Response=ff 09 00 5c 00 11 00 00 00 1c 00 03 00 01 36 45 53 37 20 33 31 32 2d 35 41 43 30 32 2d 30 41 42 30 20 00 f6 00 01 00 01 00 06 36 45 53 37 20 33 31 32 2d 35 41 43 30 32 2d 30 41 42 30 20 00 f6 00 01 00 01 00 07 20 20 20 20 20 20 20 20 20 20 20 20 
+10000166,61365,,Siemens.Devices,,low,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,
+42225,61365,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Request=ff 09 00 04 00 1c 00 01
+42225,61365,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,
+42225,61365,,S7.Protocol_CPU.Function.Read.SZL,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Response=0a 00 00 00
+42210,61364,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Job=f0 00 00 01 00 01 01 e0
+42210,61364,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.10.201,192.168.10.90,app-ctrl,signature,,,Ack=f0 00 00 01 00 01 00 f0

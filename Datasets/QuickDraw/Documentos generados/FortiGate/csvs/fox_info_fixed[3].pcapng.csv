@@ -1,0 +1,5 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,20:58:57,FGDIT,FGVM02TM24011031,10.1.3.4,106.68.88.119,,,Operational.Technology: Niagara.Fox.Protocol,,Niagara.Fox.Protocol,47787,61350,,,tcp/1911,utm,app-ctrl,signature,
+2024-09-07,20:58:57,FGDIT,FGVM02TM24011031,10.1.3.4,106.68.88.119,,,IoT: Tridium.Niagara,,Tridium.Niagara,10002767,61350,,,tcp/1911,utm,app-ctrl,signature,
+2024-09-07,20:58:57,FGDIT,FGVM02TM24011031,10.1.3.4,106.68.88.119,,,OT: Vykon.BMS,,Vykon.BMS,10004318,61350,,,tcp/1911,utm,app-ctrl,signature,
+2024-09-07,20:58:58,FGDIT,FGVM02TM24011031,10.1.3.4,106.68.88.119,,,,,Niagara.Fox.Protocol,47787,61350,,,tcp/1911,traffic,sniffer,,

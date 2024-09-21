@@ -1,0 +1,2 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+16206,77581,,ICMP,,elevated,icmp/3/1,84.3.251.110,84.3.251.101,app-ctrl,signature,,,

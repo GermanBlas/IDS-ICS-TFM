@@ -1,0 +1,7 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,20:58:14,FGDIT,FGVM02TM24011031,10.0.0.8,10.0.0.3,,,,,DNP3_Response,31817,61340,,,tcp/20000,traffic,sniffer,,
+2024-09-07,20:58:14,FGDIT,FGVM02TM24011031,10.0.0.8,10.0.0.3,,,,,DNP3_Response,31817,61342,,,tcp/20000,traffic,sniffer,,
+2024-09-07,20:58:14,FGDIT,FGVM02TM24011031,10.0.0.8,10.0.0.3,,,,,DNP3_Response,31817,61344,,,tcp/20000,traffic,sniffer,,
+2024-09-07,20:58:14,FGDIT,FGVM02TM24011031,10.0.0.8,10.0.0.3,,,,,DNP3_Disable.Spontaneous.Messages,31814,61346,,,tcp/20000,traffic,sniffer,,
+2024-09-07,20:58:15,FGDIT,FGVM02TM24011031,10.0.0.9,10.0.0.3,,,,,DNP3_Unsolicited.Message,31818,61343,,,tcp/20000,traffic,sniffer,,
+2024-09-07,20:58:15,FGDIT,FGVM02TM24011031,10.0.0.8,10.0.0.3,,,,,DNP3_Response,31817,61347,,,tcp/20000,traffic,sniffer,,

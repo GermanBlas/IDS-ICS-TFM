@@ -1,0 +1,9 @@
+date,time,devname,devid,srcip,dstip,severity,attack,msg,attackid,app,appid,sessionid,repeated,app-ctrl,service,type,subtype,eventtype,url
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Coils,,Modbus_Read.Coils,25830,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func01.Read.Coils.Validation,,Modbus_Func01.Read.Coils.Validation,48881,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Coils,,Modbus_Read.Coils,25830,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Coils,,Modbus_Read.Coils,25830,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Func01.Read.Coils.Validation,,Modbus_Func01.Read.Coils.Validation,48881,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus_Read.Coils,,Modbus_Read.Coils,25830,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,Operational.Technology: Modbus,,Modbus,16938,61414,,,MODBUS,utm,app-ctrl,signature,
+2024-09-07,21:22:17,FGDIT,FGVM02TM24011031,192.168.100.2,192.168.100.3,,,,,Modbus,16938,61414,,,tcp/502,traffic,sniffer,,

@@ -1,0 +1,7 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+25855,61416,,Modbus_Read.Holding.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,00 0a 00 0a
+48883,61416,,Modbus_Func03.Read.Holding.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,"UnitID:1, Address:10, Address:19","UnitID=1,Ref=10-19,Data=00 0a"
+25855,61416,,Modbus_Read.Holding.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+48883,61416,,Modbus_Func03.Read.Holding.Validation,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,
+25855,61416,,Modbus_Read.Holding.Registers,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,14 00 32 00 14 00 1e 00 c8 00 00 00 64 00 00 00 21 00 22 00 00
+16938,61416,,Modbus,,elevated,MODBUS,192.168.100.2,192.168.100.3,app-ctrl,signature,,,

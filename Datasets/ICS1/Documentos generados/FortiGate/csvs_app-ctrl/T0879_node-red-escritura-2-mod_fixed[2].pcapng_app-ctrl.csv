@@ -1,0 +1,9 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+42210,61413,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Job=f0 00 00 01 00 01 03 c0
+42210,61413,,S7.Protocol_Setup.Communication,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Ack=f0 00 00 01 00 01 00 f0
+42213,61413,,S7.Protocol_Read.Variable,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Job=04 01 12 0a 10 02 00 06 00 02 84 00 00 00
+42213,61413,,S7.Protocol_Read.Variable,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42213,61413,,S7.Protocol_Read.Variable,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Ack=04 01 ff 04 00 30 02 00 00 03 00 05
+42214,61413,,S7.Protocol_Write.Variable,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Job=05 01 12 0a 10 02 00 02 00 02 84 00 00 10 00 04 00 10 00 64
+42214,61413,,S7.Protocol_Write.Variable,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,
+42214,61413,,S7.Protocol_Write.Variable,,elevated,tcp/102,192.168.0.142,192.168.0.64,app-ctrl,signature,,,Ack=05 01 ff

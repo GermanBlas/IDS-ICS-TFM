@@ -1,0 +1,2 @@
+appid,sessionid,repeated,app,app-ctrl,apprisk,service,srcip,dstip,subtype,eventtype,url,parameters,filename
+24466,61434,,Ping,,elevated,PING,84.3.251.20,84.3.251.20,app-ctrl,signature,,,
