@@ -1,5 +1,5 @@
 # IDS-ICS-TFM
-Este repositorio contiene toda la documentación y material usado en el TFM de Germán Aguilar "Análisis de la capacidad de detección de ataques en entornos ICS del IDS comercial FortiGate bajo la matriz MITRE ATT&CK ICS".
+Este repositorio contiene toda la documentación y material usado en el TFM de Germán Aguilar "Análisis de la capacidad de detección de ataques en entornos ICS del IDS comercial FortiGate bajo la matriz MITRE ATT&CK ICS".       
 
 La arquitectura del GitHub es la siguiente:
 
